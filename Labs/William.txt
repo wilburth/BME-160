@@ -1,0 +1,84 @@
+Name: William Schlough
+
+Grading Notation:
+  - If you have any questions around grading, please contact me at: sjhwang@ucsc.edu
+      - The (#) is the max number of points that subsection is worth
+      - [X] X checkbox means full credit
+      - [o] o checkbox means partial credit
+      - [ ] empty checkbox means no credit
+  - If your program does not run on the command line I cannot grade it.
+  - Everyone will have the opportunity to resubmit either lab2 or lab3 later 
+    this quarter
+
+
+Grading Sections:
+  aaComposition (4/4):
+    - [X] adaquate documentation (1)
+    - [X] returns dictionary of counts with aa as key and count as value (1)
+    - [X] saves aa count dictionary in init (1)
+    - [X] good style (1)
+
+  molecularWeight (6/8):
+    - [X] adaquate documentation (2)
+    - [X] returns correct molecular weight when run (4)
+    - [ ] good style (0)
+      - requires aCount to be ran first
+
+  charge (10/10):
+    - [X] adaquate documentation (2)
+    - [X] handles pH parameter correctly (1)
+    - [X] correct output (4)
+    - [X] good style (3)
+
+  pI (10/10):
+    - [X] adaquate documentation (2)
+    - [X] calls charge method to calculate charge (1)
+    - [X] correct output (4)
+    - [X] good style (3)
+
+  molarExtinction (8/8):
+    - [X] adaquate documentation (2)
+    - [X] correct molar and mass extinction coefficient (4)
+    - [X] good style (2)
+
+Additional requirements:
+  These are things specified in class/lab.
+  Points are removed from total score if missed 
+  No points are deducted if all boxes recieve checkmarks
+
+  - [X] correct naming of file 'proteinParams.py'
+
+  - [X] overall documentation
+    - [X] adaquate program docstring
+    - [X] adaquate init docstring
+    - [X] adaquate class docstring
+
+  - [X] correct handling of various amino acid input
+      - [X] correct handling of invalid amino acids
+      - [X] correct handling of mixed case amino acids
+
+  - [X] correct handling of short peptides
+      - [X] correct handling of zero valid amino acids (eg. 'X')
+      - [X] correct handling of one amino acid
+      - [X] correct handling of two amino acid
+
+
+Extra credit (2/0):
+  - pI (2 ec)
+    - [X] correct implementation of binary search (2)
+    - [ ] precision parameter (0)
+      - overall nice job with pI
+  - molarExtinction (3 ec)
+    - [ ] correct use of optional paramter (Cystine=True) (1)
+    - [ ] correct evaluation of molar and mass extinction under oxidizing 
+          and reducing conditions. (2)
+
+
+Overall style comments:
+  - watch your line length
+
+Overall documentation comments:
+  - Write your docstrings as full imperative sentences.
+
+
+Total points: 40/40

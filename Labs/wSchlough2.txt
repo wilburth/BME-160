@@ -1,0 +1,57 @@
+Name: William Schlough
+
+Grading Notation:
+  - If you have any questions around grading, please contact me at: jsleavit@ucsc.edu
+      - The (#) is the max number of points that subsection is worth
+      - [X] X checkbox means full credit
+      - [o] o checkbox means partial credit
+      - [ ] empty checkbox means no credit
+  - If your program does not run on the command line I cannot grade it.
+  - Everyone will have the opportunity to resubmit either lab2 or lab3 later 
+    this quarter
+
+Grading Sections:
+  sequenceAnalysis (1/1):
+    - [X] Includes NucParams, ProteinParams, and FastAreader with docstrings.
+  
+  addSequence (5/5):
+    - [X] docstring and comments (2)
+    - [X] object-oriented programming (1)
+    - [X] correct output. (2)
+
+  aaComposition (10/10):
+    - [X] docstrings and comments (3)
+    - [X] object-oriented programming (3)
+    - [X] returns dictionary of counts  (4)
+
+  nucComposition (10/10):
+    - [X] docstrings and comments (3)
+    - [X] object-oriented programming (3)
+    - [X] returns dictionary of counts (4)
+
+  codonComposition (10/10):
+    - [X] docstrings and comments (3)
+    - [X] object-oriented programming (3)
+    - [X] returns dictionary of counts (4)
+
+  genomeAnalyzer (15/15):
+    - [X] docstrings and comments (3)
+    - [X] object-oriented programming (3)
+    - [X] imports modules (2)
+    - [X] runs with no bugs (4)
+    - [X] correct formatting (3)
+
+Extra credit (10/10):
+    - [X] docstrings and comments (3)
+    - [X] object-oriented programming (2)
+    - [X] comparison statistics of two genomes (3)
+
+
+Overall style comments:
+    - clean clear style with good comments
+
+Overall documentation comments:
+NA
+
+Total points: 60/50
+

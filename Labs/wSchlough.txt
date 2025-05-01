@@ -1,0 +1,54 @@
+Name: William Schlough 
+
+Grading Notation:
+  - If you have any questions around grading, please contact me at: jsleavit@ucsc.edu
+      - The (#) is the max number of points that subsection is worth
+      - [X] X checkbox means full credit
+      - [o] o checkbox means partial credit
+      - [ ] empty checkbox means no credit
+  - If your program does not run on the command line I cannot grade it.
+  - Everyone will have the opportunity to resubmit either lab2 or lab3 later 
+    this quarter
+
+Grading Sections:
+  seqCleaner (8/9):
+    - [X] explain inputs/outputs (1)
+    - [X] summarize behavior of class/method/function (1)
+    - [X] useful comments (1)
+    - [X] object-oriented programming (2)
+    - [o] correct output. (4)
+
+  fastqParse (9/9):
+    - [X] adaquate documentation (3)
+    - [X] object-oriented programming (2)
+    - [X] correct output (3.5)
+    - [X] class contains fewer than 20 lines of code (0.5)
+
+  cordinateMathSoln (9/9):
+    - [X] adaquate documentation (3)
+    - [X] object-oriented programming (2)
+    - [X] correct output (4)
+
+  converter (9/9):
+    - [X] adaquate documentation (3)
+    - [X] object-oriented programming (2)
+    - [X] correct output (3.5)
+    - [X] use camel case (0.5)
+
+
+Extra credit (5/0):
+  - Triad class rewrite (5 ec)
+    - [X] non-trivial alternate implementation (2)
+    - [X] correct output (2)
+    - [X] documentation (1)
+
+
+Overall style comments:
+  - clean and clear style 
+
+Overall documentation comments:
+  - troubleshoot your code as much as possible and make comments when you find bugs
+
+
+Total points: 40/36
+
